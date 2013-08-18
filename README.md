@@ -1,6 +1,6 @@
 # Amberlock
 
-TODO: Write a gem description
+Two-factor Authentication via SMS/Email. Ruby gem API for https://rubygems.org/gems/amberlock
 
 ## Installation
 
